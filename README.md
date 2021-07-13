@@ -1,6 +1,6 @@
 # Customerchurn
 This project is about predicting the churn of the customers.
-Description of model and Insights
+# Description of model and Insights
 
 Data cleaning has been performed.
 
