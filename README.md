@@ -1,5 +1,5 @@
 # Customerchurn
-This project is about predicting the churn of the customers.
+This project is about predicting the churn of the customers of a telecom company.
 # Description of model and Insights
 
 Data cleaning has been performed.
